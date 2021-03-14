@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    font-size: 40px;
+    padding: 10px;
+    color: black;
+    background-color: blanchedalmond;
+}
+
+.main ul{
+
+}
+.main ul li{
+list-style: none;
+padding: 10px;
+display: inline-block;
+}
+.main ul li a{
+    
+}
+.main ul li a:hover{
+    color: coral;
+}
+
